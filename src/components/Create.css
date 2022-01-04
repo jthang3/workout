@@ -1,0 +1,16 @@
+.login {
+    margin-left: 45%;
+    color: lightblue;
+    display: block;
+    margin-top: 2%;
+    text-decoration: none;
+}
+.login:hover {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.closer {
+    transform: translate(0,-15px);
+}

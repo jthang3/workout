@@ -1,0 +1,12 @@
+.account {
+    margin-left: 35%;
+    color: lightblue;
+    display: block;
+    margin-top: 2%;
+    text-decoration: none;
+}
+.account:hover {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
